@@ -36,7 +36,5 @@
 
 
 ## 📈 GitHub Stats
-![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=Alireza01&show_icons=true&theme=dark](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alireza01&theme=dark
-)
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza01&layout=compact&theme=dark](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alireza01&theme=dark
-)
+![Your GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alireza01&theme=dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alireza01&theme=dark)
