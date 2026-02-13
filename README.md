@@ -36,5 +36,8 @@
 
 
 ## 📈 GitHub Stats
+![Followers](https://img.shields.io/github/followers/Alireza01?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Alireza01?style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Alireza01&query=public_repos&label=Public%20Repos)
 ![Your GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alireza01&theme=dark)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alireza01&theme=dark)
